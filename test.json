@@ -1,1 +1,1 @@
-{  "$jason": {    "head": {      ...    },    "body": {      "background": {        "type": "html",        "url": "https://news.ycombinator.com"      }    }  }}
+{  "$jason": {    "head": {      "title": "My App"    },    "body": {      "background": {        "type": "html",        "url": "https://news.ycombinator.com"      }    }  }}
